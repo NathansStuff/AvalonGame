@@ -7,6 +7,7 @@ const offsetToParentCenter = parseInt(parentdiv.offsetWidth / 2);
 const offsetToChildCenter = 20;
 const totalOffset = offsetToParentCenter - offsetToChildCenter;
 
+
 const joinButton = document.getElementById("joinButton");
 
 // fetches and resets all player circles
